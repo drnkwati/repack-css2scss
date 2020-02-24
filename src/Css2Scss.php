@@ -60,7 +60,7 @@ class Css2Scss
      */
     protected function extractVariables()
     {
-        $properties = ['color', 'font-family'];
+        $properties = array('color', 'font-family');
         foreach ($properties as $property) {
             $this->variables[$property] = array();
         }
