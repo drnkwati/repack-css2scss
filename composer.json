@@ -30,9 +30,5 @@
         {
             "Repack\\Css2ScssPhp\\": "src"
         }
-    },
-    "bin": [
-        "bin/css2scss.bat",
-        "bin/css2scss"
-    ]
+    }
 }
